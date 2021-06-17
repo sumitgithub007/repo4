@@ -7,6 +7,8 @@ public class Test1 {
 		 
 		 System.out.println("Hello test1");
 		 
+		 int a = 3+2;
+		 
 	}
 	
 	
